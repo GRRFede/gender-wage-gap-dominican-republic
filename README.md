@@ -1,6 +1,3 @@
-# gender-wage-gap-dominican-republic
-Econometric analysis of the gender wage gap in the Dominican Republic using ENCFT 2016 microdata — Mincer equation with robust standard errors
-[README_brecha_salarial.md](https://github.com/user-attachments/files/26198227/README_brecha_salarial.md)
 # Brecha Salarial de Género en la República Dominicana
 
 **¿Cuánto menos gana una mujer dominicana por hora, comparada con un hombre de igual educación y experiencia?**
